@@ -19,7 +19,7 @@ Clone the project
 Install dependencies
 
 ```bash
-  python install -r requirements.txt
+  pip install -r requirements.txt
 ```
 
 Start the server
